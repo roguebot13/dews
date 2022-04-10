@@ -9,10 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@skill-wallet/auth": "^1.0.51",
+    "@superfluid-finance/sdk-core": "^0.3.2",
+    "autoprefixer": "^10.4.4",
+    "daisyui": "^2.13.6",
+    "ethers": "^5.6.2",
+    "graphql": "^16.3.0",
     "next": "12.1.4",
+    "postcss": "^8.4.12",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "tailwindcss": "^3.0.23"
   },
   "devDependencies": {
     "eslint": "8.13.0",
