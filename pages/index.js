@@ -19,6 +19,7 @@ export default function Home() {
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
+          <sw-auth partner-key="f4b83b4c8151fa92acc372a08a78c50ad5cab41f"></sw-auth>
         </p>
 
         <div className={styles.grid}>
